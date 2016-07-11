@@ -4,4 +4,4 @@
 
 в php.ini должен быть включен `extension php_sockets`
 
-Roman Bauer 2015
+Roman Bauer 2014
