@@ -1,7 +1,5 @@
 # tanks-online-game
 
-сервер: `php core6.2.php`
+сервер: `npm start`
 
-в php.ini должен быть включен `extension php_sockets`
-
-Roman Bauer 2014
+Roman Bauer 2014 - 2016
